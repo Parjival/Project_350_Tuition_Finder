@@ -64,7 +64,7 @@ Vite (assumed for development server)<br>
 
 
 
-Installation<br>
+<h1>Installation</h1><br>
 Follow these steps to set up the project locally.<br>
 Prerequisites
 <br>
@@ -73,7 +73,7 @@ npm or Yarn<br>
 MongoDB (local or Atlas)<br>
 Backend API server running (see API Endpoints)
 <br>
-<h1>Steps</h1><br>
+Steps<br>
 
 Clone the repository:<br>
 git clone <link><br>
