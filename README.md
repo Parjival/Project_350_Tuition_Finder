@@ -1,4 +1,4 @@
-# Project_350_Tuition_Finder
+# Project_350_Tuition_Hub
 This is our Github repo for Project 350.
 <h1>Project Name:</h1> 
 <h3>Tuition_Hub</h3>
