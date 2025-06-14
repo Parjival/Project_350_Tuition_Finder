@@ -1,12 +1,13 @@
 # Project_350_Tuition_Finder
 This is our Github repo for Project 350.
 <h1>Project Name:</h1> 
-<h3>TuitionHub.</h3>
+<h3>Tuition_Hub</h3>
 <h1>Team Members:</h1>
 <h3>1.Irfanul Huda(2020331060)</h3>
 <h3>2.Tanjima Rahman Farny(2020331074)</h3>
 <h3>3.Zakaria Ahmed Jim(2020331050)</h3>
-TuitionHub
+
+<h1>Tuition_Hub</h1>
 TuitionHub is a web platform connecting guardians seeking tutors with qualified educators. Guardians can create tuition posts, while tutors can browse and apply for opportunities. The platform supports filtering, application management, and user dashboards, with all transactions displayed in Bangladeshi Taka (৳).
 Table of Contents
 
