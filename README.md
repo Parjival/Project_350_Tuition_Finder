@@ -120,7 +120,7 @@ Access the platform overview to manage users and posts.<br>
 
 
 
-API Endpoints<br>
+<h1>API Endpoints</h1><br>
 The frontend interacts with the following API endpoints (assumed based on the code):<br>
 <br>
 GET /api/tuition-posts: Fetch all tuition posts with filters.<br>
@@ -131,12 +131,12 @@ PUT /api/tuition-posts/:postId/applications/:applicationId: Update application s
 <br>
 
 
-Guidelines<br>
+<h1>Guidelines</h1><br>
 
 Follow the existing code style (Prettier, ESLint if configured).
 Write clear, concise commit messages.
 Test your changes locally before submitting.
 Ensure no sensitive data is committed (e.g., .env files).
 
-License<br>
+<h1>License</h1><br>
 This project is licensed under the MIT License. See the LICENSE file for details.
